@@ -73,14 +73,14 @@ def start(update, context):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('⚠️ Disclaimer', url='https://t.me/ZauteKm/353'),
-                    InlineKeyboardButton('Source 🙄', url='https://t.me/iZaute/7')
+                    InlineKeyboardButton('⚠️ Disclaimer', url='https://t.me/sinzzbotz'),
+                    InlineKeyboardButton('Source 🙄', url='https://t.me/sinzzbotz/19')
               ],[
-                    InlineKeyboardButton('🤖 Bot Lists', url='https://t.me/BotzLis'),
-                    InlineKeyboardButton('👥 Group', url='https://t.me/iZaute/5'),
-                    InlineKeyboardButton('Channel 📢', url='https://t.me/JosProjects')
+                    InlineKeyboardButton('🤖 Bot Lists', url='https://t.me/sinzzbotz/12'),
+                    InlineKeyboardButton('👥 Group', url='https://t.me/sinzz_botz/5'),
+                    InlineKeyboardButton('Channel 📢', url='https://t.me/sinzzbotz')
               ],[
-                    InlineKeyboardButton('⚜️ Subscribe Now YouTube ⚜️', url='https://youtube.com/c/TelegramBots')
+                    InlineKeyboardButton('⚜️ follow Now on github ⚜️', url='https://GitHub.com/sinan-m-116')
                ]
             ]
         )
@@ -183,14 +183,14 @@ def input_tg_code(update, context):
                 reply_markup=InlineKeyboardMarkup(
                     [
                          [
-                               InlineKeyboardButton('⚠️ Disclaimer', url='https://t.me/ZauteKm/353'),
-                               InlineKeyboardButton('Source 🙄', url='https://t.me/iZaute/7')
+                               InlineKeyboardButton('⚠️ Disclaimer', url='https://t.me/sinzzbotz/19'),
+                               InlineKeyboardButton('Source 🙄', url='https://t.me/sinzzbotz/19')
                        ],[
-                               InlineKeyboardButton('🤖 Bot Lists', url='https://t.me/BotzList'),
-                               InlineKeyboardButton('👥 Group', url='https://t.me/iZaute/5'),
-                               InlineKeyboardButton('Channel 📢', url='https://t.me/JosProjects')
+                               InlineKeyboardButton('🤖 Bot Lists', url='https://t.me/sinzzbotz/12'),
+                               InlineKeyboardButton('👥 Group', url='https://t.me/sinzz_botz/1'),
+                               InlineKeyboardButton('Channel 📢', url='https://t.me/sinzzbotz')
                        ],[
-                               InlineKeyboardButton('⚜️ Subscribe Now YouTube ⚜️', url='https://youtube.com/c/TelegramBots')
+                               InlineKeyboardButton('⚜️ follow Now on github ⚜️', url='https://GitHub.com/sinan-m-116')
                         ]
                     ]
                 )
