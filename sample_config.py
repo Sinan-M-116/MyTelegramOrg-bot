@@ -5,7 +5,7 @@ class Config(object):
     # get a token from @BotFather
     TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", ""
     # required for running on Heroku
-    URL = os.environ.get("URL", "")
+    URL = os.environ.get("URL", "https://xxxxxxy.herokuapo.com/")
     # required for running on Heroku
     PORT = int(os.environ.get("PORT", 5000))
     # Python3 ReQuests CHUNK SIZE
